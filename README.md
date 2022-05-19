@@ -96,6 +96,8 @@ Kemudian untuk mengakses hasilnya melalui URL:
 
 ![Gambar1](screenshot/ss7.png)
 
+## Predefine Variable $_GET
+
 ```
 <?php
 echo 'Selamat Datang ' . $_GET['nama'];
@@ -162,6 +164,8 @@ if ($nama_hari == "Sunday") {
 ```
 ![Gambar1](screenshot/ss14.png)
 
+![Gambar1](screenshot/ss15.png)
+
 ## Kondisi Switch
 ```
 <?php
@@ -180,7 +184,9 @@ case "Tuesday":
  echo "Sabtu";
 ?>
 ```
-![Gambar1](screenshot/ss15.png)
+![Gambar1](screenshot/ss16.png)
+
+![Gambar1](screenshot/ss17.png)
 
 ## Perulangan for
 ```
@@ -195,7 +201,9 @@ for ($i=10; $i>=1; $i--) {
 }
 ?>
 ```
-![Gambar1](screenshot/ss15.png)
+![Gambar1](screenshot/ss18.png)
+
+![Gambar1](screenshot/ss19.png)
 
 ## Perulangan while
 
@@ -210,7 +218,9 @@ while ($i<=10) {
 ?>
 ```
 
-![Gambar1](screenshot/ss15.png)
+![Gambar1](screenshot/ss20.png)
+
+![Gambar1](screenshot/ss21.png)
 
 ## Perulangan dowhile
 
@@ -224,6 +234,12 @@ do {
 } while ($i<=10);
 ?>
 ```
+
+![Gambar1](screenshot/ss22.png)
+
+![Gambar1](screenshot/ss23.png)
+
+
 ## Pertanyaan dan Tugas
 
 Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan
@@ -286,3 +302,14 @@ Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nam
 </body>
 </html>
 ```
+
+![Gambar1](screenshot/ss24.png)
+
+![Gambar1](screenshot/ss25.png)
+
+
+![Gambar1](screenshot/ss26.png)
+
+### Sekian Dari Saya 
+
+-ARIP HIDAYATTULOH_312010244-
